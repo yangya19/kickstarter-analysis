@@ -15,4 +15,4 @@ Trends Discovered:
  - Theater in general do well in May
 
 ![Launched_date_outcome.png](/Users/yanyi.y/Desktop/Launched_date_outcome.png)
-![Parent Category Outcomes.png](/kickstarter-analysis/Parent Category Outcomes.png)
+![Parent Category Outcomes.png](./kickstarter-analysis/Parent Category Outcomes.png)
