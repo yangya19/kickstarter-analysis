@@ -14,5 +14,5 @@ Files Includes:
 Trends Discovered:
  - Theater in general do well in May
 
-![Launched Date Outcome.png](/Users/yanyi.y/Desktop)
+![Launched Date Outcome.png](/Users/yanyi.y/Desktop/Launched Date Outcome.png)
 ![Parent Category Outcomes.png](/Users/yanyi.y/Desktop)
