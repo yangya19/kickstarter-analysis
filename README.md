@@ -25,22 +25,29 @@ In conclusion, with no other factors and variables given, it is inaccurate to co
 
 ### Analysis of Outcomes Based on Goals
 
-From the line graph we can see, campagin sucessful rate goes lower as the goals gets bigger. In the other word, the failed rate is higher as goals is bigger. 
-Not hard to notice the goal range 30000 to 34999, 35000 to 39999, 40000 to 44999 has increased sucessful rate although the goals are greater. 
-
+From the line graph we can see, in general, campagin sucessful rate goes lower as the goals gets bigger. In the other word, the failed rate is higher as goals is bigger. 
+It is not hard to notice in goal range 35000 to 39999, 40000 to 44999 there is a big increase in sucessful rate. However,the sample size for these two criterias are quite small which may cause misleading conclusions.
 
 
 ### Challenges and Difficulties Encountered
+My first time using countifs() formula in excel was challenging. I could not get the same graph as the instruction shows. After checking tutorials and videos on how to use countifs(), and by reviewing homework instructions I was finally able to get the proper result, and get the same graph displayed on the module.
 
 ## Results
 
 - What are two conclusions you can draw about the theater Outcomes based on Launch Date?
+May in general has the highest success rate for campagins, and the success rate drops after June.
+Canceled campaigns is not affected by launch date.
+
 
 - What can you conclude about the Outcomes based on Goals?
+The campaign success rate is in negative relationship with goals. The bigger the goals, the less success rate campaign has.
 
 - What are some limitations of this dataset?
+This dataset does not tell enough variables to make accurate conclusions. Factors that can influence success rate includes economies, people's interested in TVs, technologies etc. 
 
 - What are some other possible tables and/or graphs that we could create?
+Outcomes vs. campaign duration
+Outcomes vs. Type of the campaign (see which campaign is the most sucessful)
 
 
 ![Launched_date_outcome.png](https://github.com/yangya19/kickstarter-analysis/blob/main/Launched%20date%20outcome.png)
