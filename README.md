@@ -7,16 +7,22 @@ Performing analysis on kickstarter data, with focus on outcomes based on goals a
 ## Analysis and Challenges
 ### Analysis of Outcomes Based on Launch Date
 
--Successful Campagins Outcomes vs. Launch Date
-The line graph with launch date data in years 2009-2017, shows sucessful campaign outcomes reached its peak performance in May, followed by countinously declining till September. The outcomes have a slightly recovery in September and October, then drastically decreased again to its lowest point in December. 
+-Successful Campagins Outcomes vs. Launch Date    
 
-However, if we look into individual years we can discover the graph states inconsistency in trend. For example:
+The line graph with launch date data in years 2009-2017, shows sucessful campaign outcomes reached its peak performance in May, followed by countinously declining till September. The outcomes have a slightly recovery in September and October, then drastically decreased again to its lowest point in December.   
+
+
+However, if we look into individual years we can discover the graph states inconsistency in trend. For example:    
+
 Year 2010 - The peak performance month is in June, with an increase in its sucessful campaigns in November, reached the second highest point in December; 
 Year 2012 - The outcomes dropped quite a few from March and reached a low point in May, which contradicts to the conclusion we earlier achieved;
-Year 2013 - April became the best performing month through the year, follow by a decrease and reached to a low point in May. 
+Year 2013 - April became the best performing month through the year, follow by a decrease and reached to a low point in May.   
 
--Failed Campaigns outcomes vs. Launch Date
-According to data in 2009-2017, failed campaigns outcomes sit in a stable range, and is not changed much through the year. Similar to what was discussed with outcomes for successful campagins, there are some exceptions if we dive into year by year datas: 
+
+-Failed Campaigns outcomes vs. Launch Date    
+
+According to data in 2009-2017, failed campaigns outcomes sit in a stable range, and is not changed much through the year. Similar to what was discussed with outcomes for successful campagins, there are some exceptions if we dive into year by year datas:  
+
 Year 2013 - The failed campaigns has significantly climbed up in September and dropped in November;
 Year 2014 - The outcome increased from Feb till July, resulting even more failed than successed campaigns in July, August and September;
 Year 2015 - Failed campagins outcomes have a decreasing trend through the year. 
@@ -50,5 +56,11 @@ Outcomes vs. campaign duration
 Outcomes vs. Type of the campaign (see which campaign is the most sucessful)
 
 
-![Launched_date_outcome.png](https://github.com/yangya19/kickstarter-analysis/blob/main/Launched%20date%20outcome.png)
-![Parent Category Outcomes.png](https://github.com/yangya19/kickstarter-analysis/blob/main/Parent%20Category%20Outcomes.png)
+![2010 Outcome vs. launched date.png](https://github.com/yangya19/kickstarter-analysis/blob/main/2010%20outcomes.png)
+![2012 Outcome vs. launched date.png](https://github.com/yangya19/kickstarter-analysis/blob/main/2012%20outcomes.png)
+![2013 Outcome vs. launched date.png](https://github.com/yangya19/kickstarter-analysis/blob/main/2013%20outcomes.png)
+![2014 Outcome vs. launched date.png](https://github.com/yangya19/kickstarter-analysis/blob/main/2014%20outcomes.png)
+![2015 Outcome vs. launched date.png](https://github.com/yangya19/kickstarter-analysis/blob/main/2015%20outcomes.png)
+![Outcomes_vs_Goals](https://github.com/yangya19/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
+![Theater_Outcomes_vs_Launch](https://github.com/yangya19/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
+
